@@ -1,2 +1,2 @@
 # FUXEL
-FUck EXcel Limits
+FUck eXcel Limits
